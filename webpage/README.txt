@@ -1,8 +1,7 @@
-
 Project 1B: MySQL Queries
 by Edwin Wong
 
-SID: 103699877
+SID: ##########
 email: efwong@ucla.edu
 
 References:
